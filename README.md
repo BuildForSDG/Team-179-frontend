@@ -1,27 +1,24 @@
-barebones setup for JavaScript / Node projects replace this with a one-liner phrase describing this project or app
+# Good Health and Well-being
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c40086cc569142c08d3ee795f43d1e2a)](https://app.codacy.com/gh/BuildForSDG/Team-179-frontend?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/Team-179-frontend&utm_campaign=Badge_Grade_Settings)
-[![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c87d1094207d46758618a055c5793f9d)](https://app.codacy.com/gh/BuildForSDG/Team-179-Backend?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/Team-179-Backend&utm_campaign=Badge_Grade_Settings)
 
+<!-- TODO: setting up codacy test coverage -->
 
 ## About
 
-What is this project about. Ok to enrich here or the section above it with an image. 
-
-Once this repo has been setup on Codacy by the TTL, replace the above badge with the actual one from the Codacy dashboard, and add the code coverage badge as well. This is mandatory
-
-This is a simple JavaScript starter repo template for setting up your project. The setup contains
-
-- Jest: For runnung tests. We strongly recommend that JavaScript projects use Jest
-
-- Eslint & Prettier: For formatting code to match ESlint AirBnB coding standard. You might need to install the ESlint and Prettier plugins for your code editor to make the most of these utilities
+Aims to ensure health and well-being for all, by focusing on mental health.Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, act and helps determine how we handle stress, relate to others, and make choices.
 
 ## Why
 
-Talk about what problem this solves, what SDG(s) and SGD targets it addresses and why these are imoirtant
+The stigma and scrutiny that comes with being associated with mental illness is one of the rising cause of this illness. People who may have noticed a difference in behavioural attitude desist from evaluating further just because of this stigma.This project aims at creating a forum that addresses that by:
+
+-   Addressing social and geographical isolation experienced by forum members
+-   Creating social connection for forum members
+-   Provide information and practical advice for forum members
 
 ## Usage
- How would someone use what you have built, include URLs to the deployed app, service e.t.c when you have it setup
+
+How would someone use what you have built, include URLs to the deployed app, service e.t.c when you have it setup
 
 
 ## Setup
@@ -47,23 +44,25 @@ This starter uses [Parcel](https://parceljs.org/getting_started.html) as the bun
 
 ## Authors
 
-List the team behind this project. Their names linked to their Github, LinkedIn, or Twitter accounts should siffice. Ok to signify the role they play in the project, including the TTL and mentor
+-   [Urban Ishimwe](https://github.com/urbanishimwe)
+-   [Charles Muchogo](https://github.com/muchogoc)
+-   [Jerry Shikanga](https://github.com/jerryshikanga)
+-   [Kenneth Irungu](https://github.com/ken1800)
+-   [Raymond Oluoch](https://github.com/rOluochKe)
 
 ## Contributing
+
 If this project sounds interesting to you and you'd like to contribute, thank you!
 First, you can send a mail to buildforsdg@andela.com to indicate your interest, why you'd like to support and what forms of support you can bring to the table, but here are areas we think we'd need the most help in this project :
-1.  area one (e.g this app is about human trafficking and you need feedback on your roadmap and feature list from the private sector / NGOs)
-2.  area two (e.g you want people to opt-in and try using your staging app at staging.project-name.com and report any bugs via a form)
+
+1.  Feedback on our roadmap and feature list. This app is about promoting mental health
+2.  Opt-in and try using your staging app at staging.project-name.com and report any bugs
 3.  area three (e.g here is the zoom link to our end-of sprint webinar, join and provide feedback as a stakeholder if you can)
 
 ## Acknowledgements
 
-Did you use someone else’s code?
-Do you want to thank someone explicitly?
-Did someone’s blog post spark off a wonderful idea or give you a solution to nagging problem?
-
-It's powerful to always give credit.
+[Smith-Merry J, Goggin G, Campbell A, McKenzie K, Ridout B, Baylosis C. Social connection and online engagement: insights from interviews with users of a mental health online forum. JMIR Ment Health. 2019 Mar 26;6(3):e11084. doi: 10.2196/11084.](https://mental.jmir.org/2019/3/e11084/)
 
 ## LICENSE
-MIT
 
+MIT
